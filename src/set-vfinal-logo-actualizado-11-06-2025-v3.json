@@ -1,0 +1,30 @@
+{
+  "remembered": {
+    "default": {
+      "anillo": {
+        "color": "#dfcb81",
+        "metalness": 0.8,
+        "roughness": 0.35,
+        "clearcoat": 0.6,
+        "clearcoatRoughness": 0.2,
+        "reflectivity": 0.58,
+        "ior": 1.6,
+        "thickness": 1.5,
+        "transmission": 0.6,
+        "attenuationDistance": "Infinity",
+        "attenuationColor": "#ffffff"
+      },
+      "p": {
+        "color": "#dfcb81",
+        "metalness": 0.8,
+        "roughness": 0.35
+      },
+      "s": {
+        "color": "#dfcb81",
+        "metalness": 0.8,
+        "roughness": 0.35
+      }
+    }
+  },
+  "preset": "default"
+}

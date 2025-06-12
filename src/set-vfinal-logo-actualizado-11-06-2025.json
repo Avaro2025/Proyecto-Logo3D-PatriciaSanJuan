@@ -1,0 +1,52 @@
+{
+  "remembered": {
+    "default": {
+      "anillo": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.7,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 1200,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "p": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.2,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 600,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "s": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.2,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 600,
+          "attenuationColor": "#ffffff"
+        }
+      }
+    }
+  },
+  "preset": "default"
+}

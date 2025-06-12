@@ -1,0 +1,180 @@
+{
+  "remembered": {
+    "default": {
+      "anillo": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.7,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 1200,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "p": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.2,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 600,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "s": {
+        "color": "#dfcb81",
+        "material": {
+          "metalness": 0.8,
+          "roughness": 0.35,
+          "clearcoat": 0.6,
+          "clearcoatRoughness": 0.2,
+          "reflectivity": 0.58,
+          "ior": 1.6,
+          "thickness": 1.5,
+          "transmission": 0.6,
+          "attenuationDistance": 600,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "p1-permanent": {
+        "color": "#d3c17c",
+        "material": {
+          "metalness": 0.9,
+          "roughness": 0.3,
+          "clearcoat": 0.65,
+          "clearcoatRoughness": 0.25,
+          "reflectivity": 0.6,
+          "ior": 1.45,
+          "thickness": 1.7,
+          "transmission": 0.7,
+          "attenuationDistance": 700,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "e1-permanent": {
+        "color": "#dcc976",
+        "material": {
+          "metalness": 0.9,
+          "roughness": 0.3,
+          "clearcoat": 0.65,
+          "clearcoatRoughness": 0.25,
+          "reflectivity": 0.6,
+          "ior": 1.45,
+          "thickness": 1.7,
+          "transmission": 0.7,
+          "attenuationDistance": 700,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "r1-permanent": {
+        "color": "#dcc976",
+        "material": {
+          "metalness": 0.9,
+          "roughness": 0.3,
+          "clearcoat": 0.65,
+          "clearcoatRoughness": 0.25,
+          "reflectivity": 0.6,
+          "ior": 1.45,
+          "thickness": 1.7,
+          "transmission": 0.7,
+          "attenuationDistance": 700,
+          "attenuationColor": "#ffffff"
+        }
+      },
+      "m1-permanent": {
+        "color": "#dcc976",
+        "material": {
+          "metalness": 0.73,
+        "roughness": 0.46,
+        "clearcoat": 0.39,
+        "clearcoatRoughness": 0.5,
+        "reflectivity": 0.42,
+        "ior": 1.62,
+        "thickness": 3.5,
+        "transmission": 0.28,
+        "attenuationDistance": 20.6,
+        "attenuationColor": "#ffffff"
+        }
+      },
+      "a2-permanent": {
+        "color": "#dcc976",
+        "material": {
+          "metalness": 0.73,
+        "roughness": 0.46,
+        "clearcoat": 0.39,
+        "clearcoatRoughness": 0.5,
+        "reflectivity": 0.42,
+        "ior": 1.62,
+        "thickness": 3.5,
+        "transmission": 0.28,
+        "attenuationDistance": 20.6,
+        "attenuationColor": "#ffffff"
+        }
+      },
+      "n1-permanent": {
+      "color": "#dcc976",
+        "metalness": 0.8,
+        "roughness": 0.52,
+        "clearcoat": 0.59,
+        "clearcoatRoughness": 0.44,
+        "reflectivity": 0.07,
+        "ior": 1.4,
+        "thickness": 6.2,
+        "transmission": 0.46,
+        "attenuationDistance": 34.1,
+        "attenuationColor": "#ffffff"
+        },
+        "e2-permanent": {
+      "color": "#dcc976",
+        "metalness": 0.8,
+        "roughness": 0.52,
+        "clearcoat": 0.59,
+        "clearcoatRoughness": 0.44,
+        "reflectivity": 0.07,
+        "ior": 1.4,
+        "thickness": 6.2,
+        "transmission": 0.46,
+        "attenuationDistance": 34.1,
+        "attenuationColor": "#ffffff"
+        },
+         "n2-permanent": {
+      "color": "#dcc976",
+        "metalness": 0.8,
+        "roughness": 0.52,
+        "clearcoat": 0.59,
+        "clearcoatRoughness": 0.44,
+        "reflectivity": 0.07,
+        "ior": 1.4,
+        "thickness": 6.2,
+        "transmission": 0.46,
+        "attenuationDistance": 34.1,
+        "attenuationColor": "#ffffff"
+        },
+         "t2-permanent": {
+        "color": "#dcc976",
+        "metalness": 0.8,
+        "roughness": 0.52,
+        "clearcoat": 0.59,
+        "clearcoatRoughness": 0.44,
+        "reflectivity": 0.07,
+        "ior": 1.4,
+        "thickness": 6.2,
+        "transmission": 0.46,
+        "attenuationDistance": 34.1,
+        "attenuationColor": "#ffffff"
+      }
+     }
+   
+  },
+  "preset": "default"
+}
